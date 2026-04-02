@@ -6,15 +6,15 @@ This project aims to analyze the distribution of incidents across various cities
 Using SQL-based data analysis, the project extracts meaningful insights from road accident records, categorizing incidents by city and cause. This structured approach allows us to pinpoint cities with frequent minor injury cases and examine which cause categories are most prevalent. The findings can help policymakers, traffic authorities, and urban planners develop targeted safety measures to reduce road accidents and improve overall traffic management. 
 
 ## Questions
-.Top Cities with the Highest Incident Count
-.Distribution of "Minor Injury" Incident Outcomes Across Cities (Greater Than 15)
-.Top Cities for Each Specific Cause Category
-.Most common outcome across all cities
-.City-wise distribution of accidents caused.
-.Cities with lowest number of accidents.
-.PERCENTAGE OF EACH OUTCOME TYPE.
-.CITY WITH HIGHEST ACCIDENT FOR A SPECIFIC CAUSE CATEGORY.
-Most common outcome across all cities<img width="1880" height="159" alt="image" src="https://github.com/user-attachments/assets/d1820b2f-98f6-4b71-a0fc-c6ef3886823f" />
+* Top Cities with the Highest Incident Count
+* Distribution of "Minor Injury" Incident Outcomes Across Cities (Greater Than 15)
+* Top Cities for Each Specific Cause Category
+* Most common outcome across all cities
+* City-wise distribution of accidents caused.
+* Cities with lowest number of accidents.
+* PERCENTAGE OF EACH OUTCOME TYPE.
+* CITY WITH HIGHEST ACCIDENT FOR A SPECIFIC CAUSE CATEGORY.
+
 
 
 ## Analysis Approach
