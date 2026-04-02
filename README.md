@@ -15,7 +15,8 @@ Using SQL-based data analysis, the project extracts meaningful insights from roa
 * PERCENTAGE OF EACH OUTCOME TYPE.
 * CITY WITH HIGHEST ACCIDENT FOR A SPECIFIC CAUSE CATEGORY.
 
-
+## Project Link
+https://github.com/Aartichoudhary01/SQL-Road-Accidents-Analysis/blob/main/DATA%20ANALYSIS%20PROJECT%20USING%20SQL.pptx
 
 ## Analysis Approach
 The analysis was carried out using SQL aggregation and grouping techniques on pre aggregated accident data. Since the dataset already contained summarized incident counts, functions such as SUM(Count) were used instead of record counting. City wise, cause identify high-- wise, and outcome level based queries were executed to risk cities, dominant accident causes, and frequently occurring outcomes. Special attention was given to minor injury cases, as they represent recurring safety issues that often go underreported compared to fatal accidents.
